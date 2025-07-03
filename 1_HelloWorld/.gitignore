@@ -4,11 +4,8 @@
 # Whitelist only the following folders and files
 
 
-!App.tsx
-!index.js
-!package.json
-!package-lock.json
-
+!1_HelloWorld/
+!1_HelloWorld/** 
 # Allow this .gitignore file itself
 !.gitignore
 
