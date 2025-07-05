@@ -1,4 +1,8 @@
 *
 !.gitignore
+!1_HelloWorld/
+!1_HelloWorld/**
+!2_Types_Of_Cards/
+!2_Types_Of_Cards/**
 !3_Contact_List/
 !3_Contact_List/**
